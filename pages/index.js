@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello World!! Who Dis?
+          Hello World👾!! Who Dis?
         </h1>
       </main>
 
