@@ -38,4 +38,3 @@ jobs:
             | Name | Status | Preview | Updated |
             | :--- | :----- | :------ | :------ |
             | **Regular** | ✅ | [Visit Preview]( ${{ needs.regular.outputs.link }} ) | ${{ steps.datetime.outputs.date }} |
-            | **Conference** | ✅ | [Visit Preview]( ${{ needs.conference.outputs.link }} ) | ${{ steps.datetime.outputs.date }} |
